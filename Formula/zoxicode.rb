@@ -1,8 +1,8 @@
 class Zoxicode < Formula
   desc "My zoxicode CLI tool"
   homepage "https://github.com/caiostoduto/zoxicode"
-  url "https://github.com/caiostoduto/zoxicode/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "2862d8fa23abb574c965fe59995d49c85ef037616c9613f9d024c07ad719c176"
+  url "https://github.com/caiostoduto/zoxicode/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "39b8d7a33a65524fc5d42a8890cb8af76b69362cef4cd0705ebfa654298f9fe3"
   license "GPL-3.0"
 
   depends_on "zoxide"
