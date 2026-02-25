@@ -12,7 +12,7 @@ brew tap caiostoduto/tap
 
 | Formula | Description | License |
 | --- | --- | --- |
-| [zoxicode](Formula/zoxicode.rb) | A CLI tool built on top of [zoxide](https://github.com/ajeetdsouza/zoxide) | GPL-3.0 |
+| [zoxicode](Formula/zoxicode.rb) | Open VS Code in your most-used directories with just a few keystrokes — powered by [zoxide](https://github.com/ajeetdsouza/zoxide) | GPL-3.0 |
 
 ## Requirements
 
